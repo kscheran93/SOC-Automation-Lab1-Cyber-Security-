@@ -8,10 +8,10 @@ Security Operations Center (SOC) automation project (home lab). Explore how auto
 
 ## The lab diagram to build the SOC Automation Home lab
 
-![Diagram 1](/images/Diagram_1.png/)
+![Diagram 1](/Images/Diagram_1.png)
 
 ## The simple detail about the lab
 
-![Diagram 2](/images/Diagram_2.png/)
+![Diagram 2](/Images/Diagram_2.png)
 
 
