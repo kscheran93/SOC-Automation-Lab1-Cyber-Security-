@@ -36,14 +36,14 @@ Virtual Box Dashboard
 
 2. Sysmon installation
 
-[Sysmon installation](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
+[Sysmon installation link](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
 
 ![TheHive](/Images/SysmonInstallation.png)
 
 
 3. Install Digital Ocean for cloud environment
 
-[Digital Ocean]([Sysmon installation](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon))
+[Digital Ocean link](https://www.digitalocean.com/?refcode=e2ce5a05f701&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=CopyPaste)
 
 ![DigitalOcean](/Images/DigialOcean.png)
 
