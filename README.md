@@ -31,7 +31,7 @@ In the picture click the windows host and download
 ![Virtual Box Download](/Images/virtualBoxDownloads.png)
 
 Virtual Box Dashboard
-![Virtual Box Download](/Images/virtualBoxDasboard.png)
+![Virtual Box Download](/Images/virtualBoxDashboard.png)
 
 
 2. Sysmon installation
@@ -45,7 +45,7 @@ Virtual Box Dashboard
 
 [Digital Ocean link](https://www.digitalocean.com/?refcode=e2ce5a05f701&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=CopyPaste)
 
-![DigitalOcean](/Images/DigialOcean.png)
+![DigitalOcean](/Images/DigitalOcean.png)
 
 ![alt text](/Images/DigitalOcean1.png)
 
